@@ -1,0 +1,44 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url(trump.png);
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.container {
+    text-align: center;
+    padding: 2rem;
+    border-radius: 5px;
+    background-color:  wheat;
+    flex: 0 0 60%;
+}
+
+#pressBtn {
+    border: none;
+    color: red;
+    background: url(trump2.png);
+    font-size: 1.3rem;
+    padding: 0.25rem 0,5rem;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+#pressBtn:hover {
+    color: pink;
+}
+
+#quoteTopic {
+    color: black;
+}
+
+
+
+
+
+
+
