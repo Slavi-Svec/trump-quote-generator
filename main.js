@@ -5,7 +5,7 @@ const quotes = [
 },
 {
  date : '28/9/17',
- quote: 'I loved my previous life. I had so many things going. This is more work than in my previous life. I thought it would be easier.'
+ quote: 'I loved my previous life. I had so many things going, This is more work than in my previous life. I thought it would be easier.'
 },{
  date: '14/4/11',
  quote: 'I look very much forward to showing my financials, because they are huge.'
@@ -23,4 +23,3 @@ function displayQuote () {
     quoteDate.innerHTML = quotes[number].date;
     quote.innerHTML=  quotes[number].quote;
 }
-

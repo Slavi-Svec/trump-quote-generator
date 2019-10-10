@@ -20,7 +20,7 @@ body {
 
 #pressBtn {
     border: none;
-    color: red;
+    color: rgb(226, 92, 92);
     background: url(trump2.png);
     font-size: 1.3rem;
     padding: 2.5rem 5rem;
@@ -35,10 +35,3 @@ body {
 #quoteTopic {
     color: black;
 }
-
-
-
-
-
-
-
